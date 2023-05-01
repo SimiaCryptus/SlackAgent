@@ -46,3 +46,4 @@ You can also interact with the Slack Agent directly within your Slack workspace.
 
 Enjoy using the Slack Agent!
 
+![slackagent_demo_1.png](slackagent_demo_1.png)

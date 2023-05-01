@@ -31,7 +31,7 @@ object SlackAgent {
 
     @JvmStatic
     fun main(args: Array<String>) {
-        val port = 8080
+        val port = 8082
         val baseURL = "http://localhost:$port"
         val server = object : SkyenetSessionServer(
             applicationName = "SlackAgent",
